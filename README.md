@@ -1,3 +1,9 @@
+# Västervik data collection
+
+The recorded files. Have to figure out a way to store the large bag files in
+someway.
+
+
 # To unzip the files
 
 execute `unzip_files_run_1.sh` in the same folder as `run_1_zip`. Since KTH box
