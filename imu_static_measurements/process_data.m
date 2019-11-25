@@ -2,7 +2,7 @@
 
 clear all; close all;
 
-rosbag = rosbag('2019-09-15-19-45-17.bag');
+rosbag = rosbag('data/2019-09-15-19-45-17.bag');
 
 data = cell(3,1);
 for k = 1:3

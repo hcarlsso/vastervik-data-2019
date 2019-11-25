@@ -1,0 +1,11 @@
+[deps]
+ConvenienceFunctions = "8e718806-ed98-11e9-1004-0f27223a4141"
+HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
+MAT = "23992714-dd62-5051-b70f-ba57cb901cac"
+MatlabFunctions = "3ecf248a-ed8f-11e9-1c7d-372f3e6b1560"
+MimuConstants = "e90da469-699c-4880-b306-ff2f90f43958"
+MimuModels = "80fb7776-eddc-11e9-16dc-a7078a062131"
+MlMimuSelfCalibration = "b6559d06-f3f8-11e9-3bbc-e3b4361d7903"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
